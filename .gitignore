@@ -1,0 +1,7 @@
+.venv
+./chroma_db
+.streamlit/
+__pycache__/
+.env
+rag_local.py
+rag_openai.py
